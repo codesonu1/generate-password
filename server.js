@@ -20,5 +20,5 @@ app.get("/" , function(req , res){
 });
 
 app.listen(3000 , function(){
-    console.log("running")
+    console.log("THE SERVER IS RUNNING ON 3000");
 })
